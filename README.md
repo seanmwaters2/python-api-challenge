@@ -5,4 +5,4 @@ Weatherpy
 
 Vacationpy
 
-Removed file api_keys.py as a security measure. Please use your own API keys to run this code. 
+Did not include api_keys as a security measure. Please use your own API keys to run this code. 
